@@ -51,7 +51,9 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_line_width(obj_cannon.x,obj_cannon.y,x,y,5);
+            <string>var fixX = display_get_width() / room_width;
+var fixY = display_get_height() / room_height;
+draw_line_width(obj_cannon.x * fixX,obj_cannon.y * fixY,x * fixX,y * fixY,5);
 
 </string>
           </argument>
