@@ -16,11 +16,8 @@
     <sprite>sprites\spr_thin_wall</sprite>
     <sprite>sprites\spr_win</sprite>
     <sprite>sprites\sprite9</sprite>
-
     <sprite>sprites\spr_point</sprite>
-
     <sprite>sprites\spr_retry</sprite>
- origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -35,9 +32,7 @@
     <object>objects\obj_create</object>
     <object>objects\obj_win</object>
     <object>objects\obj_next</object>
-
     <object>objects\obj_point</object>
-origin/master
   </objects>
   <rooms name="rooms">
     <room>rooms\room9</room>
