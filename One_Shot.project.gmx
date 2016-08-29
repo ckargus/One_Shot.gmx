@@ -16,6 +16,7 @@
     <sprite>sprites\spr_thin_wall</sprite>
     <sprite>sprites\spr_win</sprite>
     <sprite>sprites\sprite9</sprite>
+    <sprite>sprites\spr_point</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -30,6 +31,7 @@
     <object>objects\obj_create</object>
     <object>objects\obj_win</object>
     <object>objects\obj_next</object>
+    <object>objects\obj_point</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room9</room>
